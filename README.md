@@ -1,9 +1,6 @@
 # sample-blackberry-assignment
 
 
-
-## The artifact
-
 Your goal is to test this code: 
 
 ```c++
@@ -31,8 +28,9 @@ This snippet comes from the <fstream> header in LLVM's libcxx implementation.
     
     
     
-#Title: A sample c++ test
+## Title: A sample c++ test
 
+    
 ```c++
 #include <fstream>
 int main() {
